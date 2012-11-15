@@ -1,6 +1,6 @@
 {
     "name": "msgpack.js",
-    "filename": "msgpack.js",
+    "filename": "msgpack.min.js",
     "version": "1.05",
     "description": "MessagePack serializer implementation for JavaScript",
     "homepage": "http://msgpack.com/",
